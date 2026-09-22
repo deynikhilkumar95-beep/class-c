@@ -1,7 +1,7 @@
 // WAP to find the sumof all element of an array 
 #include <stdio.h>
 int main() {
-    int a[100], n, i, sum = 0;
+    int a, n, i, sum = 0;
     printf("Enter the number of array: ");
     scanf("%d", &n);
     printf("Enter the elements of the array:\n");
