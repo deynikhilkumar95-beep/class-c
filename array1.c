@@ -1,7 +1,7 @@
 // WAP to copy the element of one array into another and display the copy array.
 #include <stdio.h>
 int main() {
-    int a[100], b[100], n, i;
+    int a, b, n, i;
     printf("Enter the size of array : ");
     scanf("%d", &n);
     printf("Enter the elements of the array:\n");
